@@ -11,7 +11,7 @@
 
 Awesome Reasoning is a curated collection of papers, benchmarks, datasets, codebases, and surveys related to reasoning in large language models, multimodal models, and agentic systems.
 
-If you find this repository helpful, please consider giving us a star.
+If you find this repository helpful, please consider giving us a star 🌟.
 
 The collection is organized by major reasoning directions, with cross-cutting type tags such as `survey`, `method`, `benchmark`, `dataset`, `evaluation`, `analysis`, and `system`.
 
