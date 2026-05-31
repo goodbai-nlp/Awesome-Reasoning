@@ -4,11 +4,9 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <img src="https://img.shields.io/badge/Reasoning-Papers-blue" alt="Reasoning Papers">
 <a href="https://github.com/goodbai-nlp/Awesome-Reasoning/stargazers">
-  <img src="https://badgen.net/github/stars/goodbai-nlp/Awesome-Reasoning" alt="GitHub stars">
-</a>
+  <img src="https://badgen.net/github/stars/goodbai-nlp/Awesome-Reasoning" alt="GitHub stars"></a>
 <a href="https://github.com/goodbai-nlp/Awesome-Reasoning/network/members">
-  <img src="https://badgen.net/github/forks/goodbai-nlp/Awesome-Reasoning" alt="GitHub forks">
-</a>
+  <img src="https://badgen.net/github/forks/goodbai-nlp/Awesome-Reasoning" alt="GitHub forks"></a>
 </p>
 
 Awesome Reasoning is a curated collection of papers, benchmarks, datasets, codebases, and surveys related to reasoning in large language models, multimodal models, and agentic systems.
