@@ -69,4 +69,7 @@ We welcome readers and community members to join us in keeping this repository u
 Thanks to all contributors who help maintain and improve this repository.
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
+<a href="https://github.com/goodbai-nlp/Awesome-Reasoning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=goodbai-nlp/Awesome-Reasoning" alt="Contributors">
+</a>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
