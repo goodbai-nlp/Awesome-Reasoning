@@ -1,4 +1,4 @@
-# 🌟 Awesome Reasoning
+# Awesome Reasoning
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
@@ -26,16 +26,16 @@ The collection is organized by major reasoning directions, with cross-cutting ty
 
 | Type | Meaning |
 | ---- | ------- |
-| 📚 `survey` | Surveys, roadmaps, taxonomies, and overview papers |
-| 🧪 `method` | New algorithms, prompting strategies, search methods, or reasoning frameworks |
-| 🤖 `model` | Released reasoning models or model families |
-| 🏋️ `training` | SFT, RL, distillation, reward modeling, or self-improvement recipes |
-| 📏 `benchmark` | Evaluation suites, leaderboards, or test protocols |
-| 🗂️ `dataset` | Training, evaluation, or synthetic data resources |
-| 🔍 `evaluation` | Empirical comparisons, audits, and capability measurements |
-| 🧠 `analysis` | Mechanistic, behavioral, scaling, or failure-mode analysis |
-| 🛠️ `system` | Tooling, libraries, serving systems, and reproducible infrastructure |
-| 🚀 `application` | Domain-specific reasoning applications |
+| `survey` | Surveys, roadmaps, taxonomies, and overview papers |
+| `method` | New algorithms, prompting strategies, search methods, or reasoning frameworks |
+| `model` | Released reasoning models or model families |
+| `training` | SFT, RL, distillation, reward modeling, or self-improvement recipes |
+| `benchmark` | Evaluation suites, leaderboards, or test protocols |
+| `dataset` | Training, evaluation, or synthetic data resources |
+| `evaluation` | Empirical comparisons, audits, and capability measurements |
+| `analysis` | Mechanistic, behavioral, scaling, or failure-mode analysis |
+| `system` | Tooling, libraries, serving systems, and reproducible infrastructure |
+| `application` | Domain-specific reasoning applications |
 
 <a id="categories"></a>
 
@@ -43,12 +43,12 @@ The collection is organized by major reasoning directions, with cross-cutting ty
 
 | Category | Focus | Link |
 | -------- | ----- | ---- |
-| 🏋️ Learning-to-Reason | Training and post-training methods that improve general reasoning ability, including SFT, RL, verifiers, process rewards, and self-improvement. | [README](learning-to-reason/README.md) |
-| ⏱️ Test-Time Scaling | Methods that spend more or better compute during inference, including sampling, search, verification, and refinement. | [README](test-time-scaling/README.md) |
-| ⚡ Efficient Reasoning | Methods that reduce reasoning cost, latency, token length, or memory while preserving reasoning quality. | [README](efficient-reasoning/README.md) |
-| 🧩 Structured / Symbolic / Verifiable Reasoning | Reasoning over math, logic, code, tables, graphs, databases, knowledge graphs, and other structured or checkable domains. | [README](structured-symbolic-reasoning/README.md) |
-| 🖼️ Multimodal Reasoning | Reasoning across images, videos, audio, documents, charts, 3D scenes, GUI states, and embodied environments. | [README](multimodal-reasoning/README.md) |
-| 🧭 Agentic Reasoning | Planning, tool use, reflection, memory, multi-agent collaboration, and long-horizon interactive task solving. | [README](agentic-reasoning/README.md) |
+| Learning-to-Reason | Training and post-training methods that improve general reasoning ability, including SFT, RL, verifiers, process rewards, and self-improvement. | [README](learning-to-reason/README.md) |
+| Test-Time Scaling | Methods that spend more or better compute during inference, including sampling, search, verification, and refinement. | [README](test-time-scaling/README.md) |
+| Efficient Reasoning | Methods that reduce reasoning cost, latency, token length, or memory while preserving reasoning quality. | [README](efficient-reasoning/README.md) |
+| Structured / Symbolic / Verifiable Reasoning | Reasoning over math, logic, code, tables, graphs, databases, knowledge graphs, and other structured or checkable domains. | [README](structured-symbolic-reasoning/README.md) |
+| Multimodal Reasoning | Reasoning across images, videos, audio, documents, charts, 3D scenes, GUI states, and embodied environments. | [README](multimodal-reasoning/README.md) |
+| Agentic Reasoning | Planning, tool use, reflection, memory, multi-agent collaboration, and long-horizon interactive task solving. | [README](agentic-reasoning/README.md) |
 
 <a id="contribution-guide"></a>
 
