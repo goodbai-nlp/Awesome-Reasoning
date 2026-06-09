@@ -10,7 +10,6 @@ Papers about reasoning with non-text or mixed-modality inputs and outputs. This 
 - [Chart / Document / Table Image Reasoning](#chart--document--table-image-reasoning)
 - [Audio / Speech Reasoning](#audio--speech-reasoning)
 - [3D / Spatial Reasoning](#3d--spatial-reasoning)
-- [Embodied / Robotics Reasoning](#embodied--robotics-reasoning)
 - [Multimodal CoT & Test-Time Scaling](#multimodal-cot--test-time-scaling)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 
@@ -55,13 +54,7 @@ Papers about reasoning with non-text or mixed-modality inputs and outputs. This 
 
 | Year | Title | Venue | Paper | Code/Data | Tags | Note |
 | ---- | ----- | ----- | :---: | :-------: | ---- | ---- |
-
-[Back](#bookmarks)
-
-## Embodied / Robotics Reasoning
-
-| Year | Title | Venue | Paper | Code/Data | Tags | Note |
-| ---- | ----- | ----- | :---: | :-------: | ---- | ---- |
+| 2026 | Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views | CVPR 2026 | [📄](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Think_with_3D_Geometric_Imagination_Grounded_Spatial_Reasoning_from_Limited_CVPR_2026_paper.html) | [📦](https://github.com/zhangquanchen/3DThinker) | `method`, `training` | Trains VLMs to form internal 3D geometric representations for spatial reasoning from limited views. |
 
 [Back](#bookmarks)
 
