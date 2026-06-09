@@ -18,6 +18,8 @@ Papers about reasoning with non-text or mixed-modality inputs and outputs. This 
 
 | Year | Title | Venue | Paper | Code/Data | Tags | Note |
 | ---- | ----- | ----- | :---: | :-------: | ---- | ---- |
+| 2025 | Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey | arXiv | [📄](https://arxiv.org/abs/2503.12605) | [📦](https://github.com/yaotingwangofficial/Awesome-MCoT) | `survey` | Organizes multimodal chain-of-thought work across image, video, audio, 3D, and structured data reasoning. |
+| 2025 | Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers | arXiv | [📄](https://arxiv.org/abs/2506.23918) | [📦](https://github.com/zhaochen0110/Awesome_Think_With_Images) | `survey` | Surveys methods that use images as an intermediate workspace for multimodal reasoning. |
 
 [Back](#bookmarks)
 
