@@ -69,5 +69,6 @@ Papers about reasoning with non-text or mixed-modality inputs and outputs. This 
 
 | Year | Title | Venue | Paper | Code/Data | Tags | Note |
 | ---- | ----- | ----- | :---: | :-------: | ---- | ---- |
+| 2025 | VL-ICL Bench: The Devil in the Details of Multimodal In-Context Learning | ICLR 2025 | [📄](https://proceedings.iclr.cc/paper_files/paper/2025/hash/f8a2070082ad05b4deeff4ffb4312a6f-Abstract-Conference.html) | [📦](https://github.com/ys-zong/VL-ICL) | `benchmark`, `evaluation` | Builds a multimodal in-context learning benchmark that includes reasoning-sensitive vision-language tasks. |
 
 [Back](#bookmarks)
