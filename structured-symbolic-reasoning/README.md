@@ -17,7 +17,7 @@ Papers about reasoning in domains with explicit structure, symbolic constraints,
 
 | Year | Title | Venue | Paper | Code/Data | Tags | Note |
 | ---- | ----- | ----- | :---: | :-------: | ---- | ---- |
-| 2026 | A Comprehensive Survey of Knowledge Graph Reasoning: Approaches and Applications | IEEE TBDATA | [📄](https://doi.org/10.1109/TBDATA.2026.3668633) | — | `survey` | Surveys knowledge graph reasoning, including traditional, multi-hop, and temporal KGR, as well as applications in horizontal and vertical domains . |
+| 2026 | A Comprehensive Survey of Knowledge Graph Reasoning: Approaches and Applications | IEEE TBDATA | [📄](https://doi.org/10.1109/TBDATA.2026.3668633) | — | `survey` | Surveys knowledge graph reasoning, including traditional, multi-hop, and temporal KGR, as well as applications in horizontal and vertical domains. |
 | 2026 | When Vision Meets Graphs: A Survey on Graph Reasoning and Learning | TechRxiv | [📄](https://doi.org/10.36227/techrxiv.177004261.15861585/v1) | — | `survey` | Surveys graph reasoning and graph learning problems that require visual perception and structural reasoning. |
 | 2024 | Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey | arXiv | [📄](https://arxiv.org/abs/2402.05391) | [📦](https://github.com/zjukg/KG-MM-Survey) | `survey` | Reviews multimodal knowledge graph construction, representation learning, reasoning, and applications. |
 | 2024 | LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities | World Wide Web 2024 | [📄](https://doi.org/10.1007/s11280-024-01297-w) | [📦](https://github.com/zjunlp/AutoKG) | `survey` | Summarizes recent LLM capabilities for knowledge graph construction, completion, and reasoning. |
